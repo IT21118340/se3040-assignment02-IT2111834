@@ -1,0 +1,5 @@
+.l-form {
+	background-color: rgba(0, 0, 0, 0.64);
+	-webkit-backdrop-filter: blur(1px);
+	backdrop-filter: blur(0.1px);
+}
